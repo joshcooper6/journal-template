@@ -14,4 +14,4 @@ As of January 2023, I will begin incorporating daily journals into all of my pro
 
 ## Technologies Used
 
-Node.js, Vanilla Javascript
+Node.js, Javascript
