@@ -6,6 +6,12 @@ Instead, the <b>create.js</b> file will create new Markdown files based on the p
 
 As of January 2023, I will begin incorporating daily journals into all of my projects when working on them to accurately track process and collaboration notes.
 
+## To get started...
+- Download the respository into your own project.
+- Type 'node create' in the command line where the <b>create.js</b> file exists in your project.
+- If you want to create your own file name, type: 'node create NAME_HERE'
+- Watch the magic happen! 
+
 ## Technologies Used
 
 Node.js, Vanilla Javascript
