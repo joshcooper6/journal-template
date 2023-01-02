@@ -8,8 +8,18 @@ As of January 2023, I will begin incorporating daily journals into all of my pro
 
 ## To get started...
 - Download the respository into your own project.
-- Type 'node create' in the command line where the <b>create.js</b> file exists in your project.
+- Go where the <b>create.js</b> file exists in your project through the command line and enter the following:
+
+```sh
+node create
+```
+
 - If you want to create your own file name, type: 'node create NAME_HERE'
+
+```sh
+node create NAME_HERE
+```
+
 - Watch the magic happen! 
 
 ## Technologies Used
